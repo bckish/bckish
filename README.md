@@ -1,42 +1,40 @@
-# Hi 👋, I'm Kishore Billu
+# Hi, I'm Kishore Billu 👋
 
-### DevOps Engineer | Platform Engineer | Cloud Engineer | Kubernetes | AWS | Azure | Terraform | GitOps | MLOps Enthusiast
+### DevOps · Cloud · Platform Engineer
 
-I'm a DevOps & Cloud Engineer based in Germany with 4+ years of experience building secure, scalable, and automated cloud infrastructure. I enjoy designing cloud-native platforms, automating deployments, and improving developer productivity through Platform Engineering and GitOps.
+I’m a Germany-based DevOps and Cloud Engineer with 4+ years of experience building secure, automated, and scalable infrastructure. My focus is cloud-native platforms, Kubernetes, Infrastructure as Code, GitOps, and reliable delivery pipelines.
 
-* 🔭 I'm currently working on **Cloud Native Platform Engineering**
-* 🌱 I'm currently learning **MLOps, AI Infrastructure, Crossplane, Backstage, OpenTofu, and Kubernetes Security**
-* 👯 I'm looking to collaborate on **Open Source DevOps, Kubernetes, and Platform Engineering projects**
-* 🤝 I'm looking for help with **MLOps and AI Infrastructure**
-* 👨‍💻 All of my projects are available at **https://github.com/bckish**
-* 💬 Ask me about **AWS, Azure, Kubernetes, Terraform, Docker, GitOps, Azure DevOps, GitHub Actions, Jenkins, Linux, Platform Engineering, and CI/CD**
-* 📫 Reach me at **[bckishore21@gmail.com](mailto:bckishore21@gmail.com)**
-* ⚡ Fun fact: **I enjoy automating repetitive tasks and turning manual processes into scalable cloud solutions.**
+[Portfolio](https://bckish.github.io/) · [20 project portfolio](https://bckish.github.io/devops-cloud-portfolio/) · [LinkedIn](https://www.linkedin.com/in/kishorebillu/)
 
-## 🌐 Connect with me
+## What I work with
 
-* LinkedIn: https://www.linkedin.com/in/kishorebillu/
+| Area | Technologies |
+| --- | --- |
+| Cloud | AWS, Azure |
+| Containers | Docker, Kubernetes, Helm, EKS, AKS |
+| Infrastructure as Code | Terraform, Ansible |
+| CI/CD & GitOps | GitHub Actions, Azure DevOps, Jenkins, GitLab CI, Argo CD, FluxCD |
+| Observability | Prometheus, Grafana, Kibana, CloudWatch, Azure Monitor |
+| Automation | Python, Bash, Java |
+| Data & Messaging | Kafka, RabbitMQ, PostgreSQL, MySQL, MongoDB, Redis |
 
-## 🛠️ Languages & Tools
+## Featured projects
 
-**Cloud:** AWS • Azure
+- [AWS EKS Three-Tier Platform](https://github.com/bckish/aws-eks-three-tier-platform) — GitOps, CI/CD, and observability for an EKS application platform.
+- [Azure AKS GitOps Platform](https://github.com/bckish/azure-aks-gitops-platform) — AKS delivery with FluxCD, GitLab CI, and Vault.
+- [EKS GitOps Observability](https://github.com/bckish/eks-gitops-observability) — Argo CD, Prometheus, Grafana, and AWS load-balancing.
+- [AWS FinOps Automation](https://github.com/bckish/aws-finops-automation) — Cost Explorer reporting and cloud lifecycle automation.
+- [K8sGPT + Ollama Cluster Triage](https://github.com/bckish/k8sgpt-ollama-cluster-triage) — Local-first AI-assisted Kubernetes diagnostics.
+- [All DevOps & Cloud Projects](https://bckish.github.io/devops-cloud-portfolio/)
 
-**Containers & Orchestration:** Docker • Kubernetes • Helm
+## Currently focused on
 
-**Infrastructure as Code:** Terraform
+- Cloud-native platform engineering
+- MLOps and AI infrastructure
+- Crossplane, Backstage, OpenTofu, and Kubernetes security
 
-**CI/CD:** Azure DevOps • GitHub Actions • Jenkins • GitLab CI
+## Collaboration
 
-**GitOps:** Argo CD • FluxCD
+I’m open to collaborating on DevOps, Kubernetes, platform engineering, and cloud automation projects.
 
-**Programming & Scripting:** Python • Java • Bash
-
-**Messaging:** Kafka • RabbitMQ
-
-**Databases:** PostgreSQL • MySQL • MariaDB • MongoDB • Redis
-
-**Monitoring & Observability:** Grafana • Kibana • Prometheus
-
-**Operating Systems:** Linux
-
-**Version Control:** Git • GitHub
+Reach me at [bckishore21@gmail.com](mailto:bckishore21@gmail.com).
