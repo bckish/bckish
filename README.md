@@ -27,6 +27,13 @@ I’m a Germany-based DevOps and Cloud Engineer with 4+ years of experience buil
 - [K8sGPT + Ollama Cluster Triage](https://github.com/bckish/k8sgpt-ollama-cluster-triage) — Local-first AI-assisted Kubernetes diagnostics.
 - [All DevOps & Cloud Projects](https://bckish.github.io/devops-cloud-portfolio/)
 
+## Certifications
+
+- AWS Certified DevOps Engineer – Professional (valid through August 2027)
+- Microsoft Certified: DevOps Engineer Expert (valid through March 2026)
+- HashiCorp Certified: Terraform Associate (valid through January 2026)
+- AWS Certified Solutions Architect – Associate (credential history; expired August 2025)
+
 ## Currently focused on
 
 - Cloud-native platform engineering
