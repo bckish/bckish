@@ -30,8 +30,8 @@ I’m a Germany-based DevOps and Cloud Engineer with 4+ years of experience buil
 ## Certifications
 
 - AWS Certified DevOps Engineer – Professional (valid through August 2027)
-- Microsoft Certified: DevOps Engineer Expert (valid through March 2026)
-- HashiCorp Certified: Terraform Associate (valid through January 2026)
+- Microsoft Certified: DevOps Engineer Expert (credential history; listed validity ended March 2026; renewal not verified)
+- HashiCorp Certified: Terraform Associate (credential history; listed validity ended January 2026; renewal not verified)
 - AWS Certified Solutions Architect – Associate (credential history; expired August 2025)
 
 ## Currently focused on
